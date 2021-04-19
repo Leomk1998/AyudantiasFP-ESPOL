@@ -1,0 +1,113 @@
+
+
+'''
+#Ejercicio 1
+#f=78
+f=int(input("Ingrese la temperatura en grados Farenheit: "))
+c=(f-32)*5/9
+print("%d grados Fahrenheit son %d grados centigrados."%(f,c))
+
+#Ejercicio 2
+segundosUsuario = int(input("Ingrese una cantidad de segundos: "))
+horas=(segundosUsuario)//3600
+minutos=(segundosUsuario%3600)//60
+segundos=(minutos%60)
+print("%d segundos son %d hora(s), %d minuto(s),%d segundo(s)"%(segundosUsuario, horas,minutos,segundos))
+
+#Ejercicio 3
+print("*****JUEGO DE ADIVINANZA******")
+print("Palabra a adivinar: “P______r”")
+print("Pista: se dedica profesionalmente a la enseñanza.")
+palabra='Profesor'
+palabraUsuario=input("Escriba la palabra que cree que es: ")
+val= palabraUsuario.lower().strip()==palabra.lower()
+print("Adivino?",val)
+
+
+#Ejercicio4
+
+print("Programa de comprobacion de reprobados")
+par1 = int(input("Ingrese su promedio de primer parcial: "))
+par2 = int(input("Ingrese su promedio de segundo parcial: "))
+mej = int(input("Ingrese su nota de mejoramiento: "))
+practico = int(input("Ingrese su nota del componente practico: "))
+faltas = int(input("Ingrese su numero de faltas: "))
+clases = int(input("Ingrese su numero total de clases: "))
+lista = [ (par1+par2)/2, (par1+mej)/2, (par2+mej)/2]
+mejorPromedioSumado = max(lista)
+promedioTotal= mejorPromedioSumado*0.8 + practico*0.2
+porcentajeAsistencia=((clases-faltas)/clases)*100
+validacionReprobado = (promedioTotal < 60) or (porcentajeAsistencia < 60)
+print("Su promedio es {0:.1f} y su porcentaje de asistencias es {1:.1f} %".format(promedioTotal,porcentajeAsistencia))
+print("Reprobado? ",validacionReprobado)
+
+
+#Ejercicio 5
+
+print("Este es un mensaje\n\n\tQue usa caracteres especiales \n\nEn un solo string")
+
+
+#Ejercicio6
+import random
+lista=['Luis','Rafael','Diego','Carlos','Rodrigo','Steven','Jose','Miguel','Luka','Jorge','Mike','Ibai']
+primerGanador=lista[random.randint(0,len(lista))]
+print(primerGanador,"ha ganado una licuadora.")
+segundoGanador=lista[random.randint(0,len(lista))]
+print(segundoGanador,"ha ganado una freidora aire.")
+tercerGanador=lista[random.randint(0,len(lista))]
+print(tercerGanador,"ha ganado una refrigeradora.")
+
+
+
+#Ejercicio7
+import random
+lista=['Luis','Rafael','Diego','Carlos','Rodrigo','Steven','Jose','Miguel','Luka','Jorge','Mike','Ibai']
+primerGanador=lista.pop(random.randint(0,len(lista)))
+print(primerGanador,"se ha salvado.")
+segundoGanador=lista.pop(random.randint(0,len(lista)))
+print(segundoGanador,"se ha salvado.")
+tercerGanador=lista.pop(random.randint(0,len(lista)))
+print(tercerGanador,"se ha salvado.")
+print(lista)
+
+'''
+
+'''
+#taller
+
+# Validar una cedula
+# Las condiciones son:
+#1. La cédula debe contener solo números, no puede tener letras
+#2. La cédula debe tener 10 dígitos exactos
+#3. La cédula debe ser de Gye (09), empezar con estos dígitos
+#4. Solicite la cédula y presente un mensaje personalizado.
+#Ejm: La cédula 092821928a es correcta? False.
+#NOTA: Para que sea True debe cumplir todas las condiciones.
+#Hola
+print("*******Validacion de Cedula************")
+cedula=input("Ingrese su cedula: ")
+val1= cedula.isdigit()
+val2= len(cedula)==10
+val3= cedula.startswith("09")
+valGeneral = val1 and val2 and val3
+print("Cedula valida?", valGeneral)
+
+# Validar un correo ESPOL
+# Las condiciones son:
+#1. El correo debe terminar en espol.edu.ec
+#2. El correo debe tener un @
+#3. El correo debe empezar con una letra
+#4. El usuario de correo no podría ser espol: espol@espol.edu.ec no sería correcto
+#5. Solicite el correo y presente un mensaje personalizado.
+#Ejm: El correo felipe2@fiec.espol.edu.ec pertenece a ESPOL? True.
+#NOTA: Para que sea True debe cumplir todas las condiciones.
+
+print("Validador de correos ESPOL")
+correoEntrada=input("Ingrese su correo: ")
+val1=correoEntrada.endswith("espol.edu.ec")
+val2=correoEntrada.count("@")==1
+val3=correoEntrada[0].isalpha()
+val4= not (correoEntrada[0:correoEntrada.find("@")] == "espol")
+valgeneral=val1 and val2 and val3 and val4
+print("El correo es valido?",valgeneral)
+'''
