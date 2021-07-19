@@ -5,9 +5,8 @@ Fui ayudante de fundamentos de programación en la Escuela Superior Politécnica
 Contextualizando aquello, he querido recompilar los ejercicios que he desarrollado en esas clases prácticas, algunos exámenes, entre otras cosas, con la finalidad de compartir este contenido con personas que puedan estar interesadas en él.
 
 ## Contenido que podrán encontrar:
-```
-Exámenes.
-Ejercicios propuestos.
-Ejercicios resueltos.
-Problemas.
-```
+
+*Exámenes.
+*Ejercicios propuestos.
+*Ejercicios resueltos.
+*Problemas.
