@@ -7,6 +7,7 @@ Contextualizando aquello, he querido recompilar los ejercicios que he desarrolla
 ## Contenido que podrán encontrar:
 ```
 Exámenes.
-Ejercicios.
+Ejercicios propuestos.
+Ejercicios resueltos.
 Problemas.
 ```
