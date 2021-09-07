@@ -1,0 +1,1001 @@
+sexo,grupo,educacion padres,lunch,curso preparacion,nota mat,nota lectura,nota escritura
+femenino,grupo B,grado universitario,estandar,ninguno,72,72,74
+femenino,grupo C,empezo univerdidad,estandar,completado,69,90,88
+femenino,grupo B,maestria,estandar,ninguno,90,95,93
+masculino,grupo A,titulo tecnico,gratis/reducido,ninguno,47,57,44
+masculino,grupo C,empezo univerdidad,estandar,ninguno,76,78,75
+femenino,grupo B,titulo tecnico,estandar,ninguno,71,83,78
+femenino,grupo B,empezo univerdidad,estandar,completado,88,95,92
+masculino,grupo B,empezo univerdidad,gratis/reducido,ninguno,40,43,39
+masculino,grupo D,colegio,gratis/reducido,completado,64,64,67
+femenino,grupo B,colegio,gratis/reducido,ninguno,38,60,50
+masculino,grupo C,titulo tecnico,estandar,ninguno,58,54,52
+masculino,grupo D,titulo tecnico,estandar,ninguno,40,52,43
+femenino,grupo B,colegio,estandar,ninguno,65,81,73
+masculino,grupo A,empezo univerdidad,estandar,completado,78,72,70
+femenino,grupo A,maestria,estandar,ninguno,50,53,58
+femenino,grupo C,some colegio,estandar,ninguno,69,75,78
+masculino,grupo C,colegio,estandar,ninguno,88,89,86
+femenino,grupo B,some colegio,gratis/reducido,ninguno,18,32,28
+masculino,grupo C,maestria,gratis/reducido,completado,46,42,46
+femenino,grupo C,titulo tecnico,gratis/reducido,ninguno,54,58,61
+masculino,grupo D,colegio,estandar,ninguno,66,69,63
+femenino,grupo B,empezo univerdidad,gratis/reducido,completado,65,75,70
+masculino,grupo D,empezo univerdidad,estandar,ninguno,44,54,53
+femenino,grupo C,some colegio,estandar,ninguno,69,73,73
+masculino,grupo D,grado universitario,gratis/reducido,completado,74,71,80
+masculino,grupo A,maestria,gratis/reducido,ninguno,73,74,72
+masculino,grupo B,empezo univerdidad,estandar,ninguno,69,54,55
+femenino,grupo C,grado universitario,estandar,ninguno,67,69,75
+masculino,grupo C,colegio,estandar,ninguno,70,70,65
+femenino,grupo D,maestria,estandar,ninguno,62,70,75
+femenino,grupo D,empezo univerdidad,estandar,ninguno,69,74,74
+femenino,grupo B,empezo univerdidad,estandar,ninguno,63,65,61
+femenino,grupo E,maestria,gratis/reducido,ninguno,56,72,65
+masculino,grupo D,empezo univerdidad,estandar,ninguno,40,42,38
+masculino,grupo E,empezo univerdidad,estandar,ninguno,97,87,82
+masculino,grupo E,titulo tecnico,estandar,completado,81,81,79
+femenino,grupo D,titulo tecnico,estandar,ninguno,74,81,83
+femenino,grupo D,some colegio,gratis/reducido,ninguno,50,64,59
+femenino,grupo D,titulo tecnico,gratis/reducido,completado,75,90,88
+masculino,grupo B,titulo tecnico,gratis/reducido,ninguno,57,56,57
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,55,61,54
+femenino,grupo C,titulo tecnico,estandar,ninguno,58,73,68
+femenino,grupo B,titulo tecnico,estandar,ninguno,53,58,65
+masculino,grupo B,empezo univerdidad,gratis/reducido,completado,59,65,66
+femenino,grupo E,titulo tecnico,gratis/reducido,ninguno,50,56,54
+masculino,grupo B,titulo tecnico,estandar,ninguno,65,54,57
+femenino,grupo A,titulo tecnico,estandar,completado,55,65,62
+femenino,grupo C,colegio,estandar,ninguno,66,71,76
+femenino,grupo D,titulo tecnico,gratis/reducido,completado,57,74,76
+masculino,grupo C,colegio,estandar,completado,82,84,82
+masculino,grupo E,empezo univerdidad,estandar,ninguno,53,55,48
+masculino,grupo E,titulo tecnico,gratis/reducido,completado,77,69,68
+masculino,grupo C,empezo univerdidad,estandar,ninguno,53,44,42
+masculino,grupo D,colegio,estandar,ninguno,88,78,75
+femenino,grupo C,some colegio,gratis/reducido,completado,71,84,87
+femenino,grupo C,colegio,gratis/reducido,ninguno,33,41,43
+femenino,grupo E,titulo tecnico,estandar,completado,82,85,86
+masculino,grupo D,titulo tecnico,estandar,ninguno,52,55,49
+masculino,grupo D,empezo univerdidad,estandar,completado,58,59,58
+femenino,grupo C,some colegio,gratis/reducido,ninguno,0,17,10
+masculino,grupo E,grado universitario,gratis/reducido,completado,79,74,72
+masculino,grupo A,some colegio,gratis/reducido,ninguno,39,39,34
+masculino,grupo A,titulo tecnico,gratis/reducido,ninguno,62,61,55
+femenino,grupo C,titulo tecnico,estandar,ninguno,69,80,71
+femenino,grupo D,some colegio,estandar,ninguno,59,58,59
+masculino,grupo B,some colegio,estandar,ninguno,67,64,61
+masculino,grupo D,some colegio,gratis/reducido,ninguno,45,37,37
+femenino,grupo C,empezo univerdidad,estandar,ninguno,60,72,74
+masculino,grupo B,titulo tecnico,gratis/reducido,ninguno,61,58,56
+femenino,grupo C,titulo tecnico,estandar,ninguno,39,64,57
+femenino,grupo D,empezo univerdidad,gratis/reducido,completado,58,63,73
+masculino,grupo D,empezo univerdidad,estandar,completado,63,55,63
+femenino,grupo A,titulo tecnico,gratis/reducido,ninguno,41,51,48
+masculino,grupo C,some colegio,gratis/reducido,ninguno,61,57,56
+masculino,grupo C,some colegio,estandar,ninguno,49,49,41
+masculino,grupo B,titulo tecnico,gratis/reducido,ninguno,44,41,38
+masculino,grupo E,some colegio,estandar,ninguno,30,26,22
+masculino,grupo A,grado universitario,estandar,completado,80,78,81
+femenino,grupo D,some colegio,estandar,completado,61,74,72
+femenino,grupo E,maestria,estandar,ninguno,62,68,68
+femenino,grupo B,titulo tecnico,estandar,ninguno,47,49,50
+masculino,grupo B,colegio,gratis/reducido,ninguno,49,45,45
+masculino,grupo A,empezo univerdidad,gratis/reducido,completado,50,47,54
+masculino,grupo E,titulo tecnico,estandar,ninguno,72,64,63
+masculino,grupo D,colegio,gratis/reducido,ninguno,42,39,34
+femenino,grupo C,empezo univerdidad,estandar,ninguno,73,80,82
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,76,83,88
+femenino,grupo D,titulo tecnico,estandar,ninguno,71,71,74
+femenino,grupo A,empezo univerdidad,estandar,ninguno,58,70,67
+femenino,grupo D,some colegio,estandar,ninguno,73,86,82
+femenino,grupo C,grado universitario,estandar,ninguno,65,72,74
+masculino,grupo C,colegio,gratis/reducido,ninguno,27,34,36
+masculino,grupo C,colegio,estandar,ninguno,71,79,71
+masculino,grupo C,titulo tecnico,gratis/reducido,completado,43,45,50
+femenino,grupo B,empezo univerdidad,estandar,ninguno,79,86,92
+masculino,grupo C,titulo tecnico,gratis/reducido,completado,78,81,82
+masculino,grupo B,some colegio,estandar,completado,65,66,62
+femenino,grupo E,empezo univerdidad,estandar,completado,63,72,70
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,58,67,62
+femenino,grupo D,grado universitario,estandar,ninguno,65,67,62
+masculino,grupo B,empezo univerdidad,estandar,ninguno,79,67,67
+masculino,grupo D,grado universitario,estandar,completado,68,74,74
+femenino,grupo D,titulo tecnico,estandar,ninguno,85,91,89
+masculino,grupo B,colegio,estandar,completado,60,44,47
+masculino,grupo C,empezo univerdidad,estandar,completado,98,86,90
+femenino,grupo C,empezo univerdidad,estandar,ninguno,58,67,72
+femenino,grupo D,maestria,estandar,ninguno,87,100,100
+masculino,grupo E,titulo tecnico,estandar,completado,66,63,64
+femenino,grupo B,titulo tecnico,gratis/reducido,ninguno,52,76,70
+femenino,grupo B,some colegio,estandar,ninguno,70,64,72
+femenino,grupo D,titulo tecnico,gratis/reducido,completado,77,89,98
+masculino,grupo C,colegio,estandar,ninguno,62,55,49
+masculino,grupo A,titulo tecnico,estandar,ninguno,54,53,47
+femenino,grupo D,empezo univerdidad,estandar,ninguno,51,58,54
+femenino,grupo E,grado universitario,estandar,completado,99,100,100
+masculino,grupo C,colegio,estandar,ninguno,84,77,74
+femenino,grupo B,grado universitario,gratis/reducido,ninguno,75,85,82
+femenino,grupo D,grado universitario,estandar,ninguno,78,82,79
+femenino,grupo D,some colegio,estandar,ninguno,51,63,61
+femenino,grupo C,empezo univerdidad,estandar,ninguno,55,69,65
+femenino,grupo C,grado universitario,estandar,completado,79,92,89
+masculino,grupo B,titulo tecnico,estandar,completado,91,89,92
+femenino,grupo C,empezo univerdidad,estandar,completado,88,93,93
+masculino,grupo D,colegio,gratis/reducido,ninguno,63,57,56
+masculino,grupo E,empezo univerdidad,estandar,ninguno,83,80,73
+femenino,grupo B,colegio,estandar,ninguno,87,95,86
+masculino,grupo B,some colegio,estandar,ninguno,72,68,67
+masculino,grupo D,empezo univerdidad,estandar,completado,65,77,74
+masculino,grupo D,maestria,estandar,ninguno,82,82,74
+femenino,grupo A,grado universitario,estandar,ninguno,51,49,51
+masculino,grupo D,maestria,estandar,ninguno,89,84,82
+masculino,grupo C,some colegio,gratis/reducido,completado,53,37,40
+masculino,grupo E,empezo univerdidad,gratis/reducido,completado,87,74,70
+femenino,grupo C,empezo univerdidad,estandar,completado,75,81,84
+masculino,grupo D,grado universitario,gratis/reducido,completado,74,79,75
+masculino,grupo C,grado universitario,estandar,ninguno,58,55,48
+masculino,grupo B,some colegio,estandar,completado,51,54,41
+masculino,grupo E,colegio,estandar,ninguno,70,55,56
+femenino,grupo C,titulo tecnico,estandar,ninguno,59,66,67
+masculino,grupo D,empezo univerdidad,estandar,completado,71,61,69
+femenino,grupo D,some colegio,estandar,ninguno,76,72,71
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,59,62,64
+femenino,grupo E,empezo univerdidad,gratis/reducido,completado,42,55,54
+masculino,grupo A,colegio,estandar,ninguno,57,43,47
+masculino,grupo D,empezo univerdidad,estandar,ninguno,88,73,78
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,22,39,33
+masculino,grupo B,some colegio,estandar,ninguno,88,84,75
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,73,68,66
+femenino,grupo D,grado universitario,estandar,completado,68,75,81
+masculino,grupo E,titulo tecnico,gratis/reducido,completado,100,100,93
+masculino,grupo A,some colegio,estandar,completado,62,67,69
+masculino,grupo A,grado universitario,estandar,ninguno,77,67,68
+femenino,grupo B,titulo tecnico,estandar,completado,59,70,66
+masculino,grupo D,grado universitario,estandar,ninguno,54,49,47
+masculino,grupo D,some colegio,estandar,ninguno,62,67,61
+femenino,grupo C,empezo univerdidad,estandar,completado,70,89,88
+femenino,grupo E,colegio,gratis/reducido,completado,66,74,78
+masculino,grupo B,empezo univerdidad,gratis/reducido,ninguno,60,60,60
+femenino,grupo B,titulo tecnico,estandar,completado,61,86,87
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,66,62,64
+masculino,grupo B,titulo tecnico,gratis/reducido,completado,82,78,74
+femenino,grupo E,empezo univerdidad,gratis/reducido,completado,75,88,85
+masculino,grupo B,maestria,gratis/reducido,ninguno,49,53,52
+masculino,grupo C,colegio,estandar,ninguno,52,53,49
+femenino,grupo E,maestria,estandar,ninguno,81,92,91
+femenino,grupo C,grado universitario,estandar,completado,96,100,100
+masculino,grupo C,colegio,gratis/reducido,completado,53,51,51
+femenino,grupo B,maestria,gratis/reducido,completado,58,76,78
+femenino,grupo B,colegio,estandar,completado,68,83,78
+femenino,grupo C,empezo univerdidad,gratis/reducido,completado,67,75,70
+masculino,grupo A,colegio,estandar,completado,72,73,74
+masculino,grupo E,some colegio,estandar,ninguno,94,88,78
+femenino,grupo D,empezo univerdidad,estandar,ninguno,79,86,81
+femenino,grupo C,titulo tecnico,estandar,ninguno,63,67,70
+femenino,grupo C,grado universitario,gratis/reducido,completado,43,51,54
+femenino,grupo C,maestria,estandar,completado,81,91,87
+femenino,grupo B,colegio,gratis/reducido,completado,46,54,58
+femenino,grupo C,titulo tecnico,estandar,completado,71,77,77
+femenino,grupo B,maestria,gratis/reducido,completado,52,70,62
+femenino,grupo D,some colegio,estandar,completado,97,100,100
+masculino,grupo C,maestria,gratis/reducido,completado,62,68,75
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,46,64,66
+femenino,grupo E,colegio,estandar,ninguno,50,50,47
+femenino,grupo D,titulo tecnico,estandar,ninguno,65,69,70
+masculino,grupo C,some colegio,gratis/reducido,completado,45,52,49
+masculino,grupo C,titulo tecnico,gratis/reducido,completado,65,67,65
+masculino,grupo E,colegio,estandar,ninguno,80,76,65
+masculino,grupo D,some colegio,estandar,completado,62,66,68
+masculino,grupo B,some colegio,gratis/reducido,ninguno,48,52,45
+femenino,grupo C,grado universitario,estandar,ninguno,77,88,87
+femenino,grupo E,titulo tecnico,estandar,ninguno,66,65,69
+masculino,grupo D,empezo univerdidad,estandar,completado,76,83,79
+femenino,grupo B,some colegio,estandar,ninguno,62,64,66
+masculino,grupo D,empezo univerdidad,estandar,completado,77,62,62
+femenino,grupo C,maestria,estandar,completado,69,84,85
+masculino,grupo D,titulo tecnico,estandar,ninguno,61,55,52
+masculino,grupo C,some colegio,gratis/reducido,completado,59,69,65
+masculino,grupo E,colegio,gratis/reducido,ninguno,55,56,51
+femenino,grupo B,empezo univerdidad,gratis/reducido,ninguno,45,53,55
+femenino,grupo B,grado universitario,gratis/reducido,ninguno,78,79,76
+femenino,grupo C,titulo tecnico,estandar,completado,67,84,86
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,65,81,77
+masculino,grupo C,titulo tecnico,estandar,ninguno,69,77,69
+femenino,grupo B,titulo tecnico,estandar,ninguno,57,69,68
+masculino,grupo C,empezo univerdidad,estandar,ninguno,59,41,42
+masculino,grupo D,some colegio,estandar,completado,74,71,78
+masculino,grupo E,grado universitario,estandar,ninguno,82,62,62
+masculino,grupo E,colegio,estandar,completado,81,80,76
+femenino,grupo B,empezo univerdidad,gratis/reducido,ninguno,74,81,76
+femenino,grupo B,empezo univerdidad,gratis/reducido,ninguno,58,61,66
+masculino,grupo D,some colegio,gratis/reducido,completado,80,79,79
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,35,28,27
+femenino,grupo C,colegio,gratis/reducido,ninguno,42,62,60
+masculino,grupo C,titulo tecnico,gratis/reducido,completado,60,51,56
+masculino,grupo E,colegio,estandar,completado,87,91,81
+masculino,grupo B,some colegio,estandar,completado,84,83,75
+femenino,grupo E,titulo tecnico,gratis/reducido,completado,83,86,88
+femenino,grupo C,colegio,gratis/reducido,ninguno,34,42,39
+masculino,grupo B,colegio,gratis/reducido,ninguno,66,77,70
+masculino,grupo B,some colegio,estandar,completado,61,56,56
+femenino,grupo D,colegio,estandar,completado,56,68,74
+masculino,grupo B,titulo tecnico,estandar,ninguno,87,85,73
+femenino,grupo C,some colegio,gratis/reducido,ninguno,55,65,62
+masculino,grupo D,some colegio,estandar,ninguno,86,80,75
+femenino,grupo B,titulo tecnico,estandar,completado,52,66,73
+femenino,grupo E,maestria,gratis/reducido,ninguno,45,56,54
+femenino,grupo C,empezo univerdidad,estandar,ninguno,72,72,71
+masculino,grupo D,colegio,estandar,ninguno,57,50,54
+masculino,grupo A,some colegio,gratis/reducido,ninguno,68,72,64
+femenino,grupo C,empezo univerdidad,estandar,completado,88,95,94
+masculino,grupo D,empezo univerdidad,estandar,ninguno,76,64,66
+masculino,grupo C,titulo tecnico,estandar,ninguno,46,43,42
+femenino,grupo B,grado universitario,estandar,ninguno,67,86,83
+masculino,grupo E,some colegio,estandar,ninguno,92,87,78
+masculino,grupo C,grado universitario,estandar,completado,83,82,84
+masculino,grupo D,titulo tecnico,estandar,ninguno,80,75,77
+masculino,grupo D,grado universitario,gratis/reducido,ninguno,63,66,67
+femenino,grupo D,some colegio,estandar,completado,64,60,74
+masculino,grupo B,empezo univerdidad,estandar,ninguno,54,52,51
+masculino,grupo C,titulo tecnico,estandar,ninguno,84,80,80
+masculino,grupo D,colegio,gratis/reducido,completado,73,68,66
+femenino,grupo E,grado universitario,estandar,ninguno,80,83,83
+femenino,grupo D,colegio,estandar,ninguno,56,52,55
+masculino,grupo E,empezo univerdidad,estandar,ninguno,59,51,43
+masculino,grupo D,some colegio,estandar,ninguno,75,74,69
+masculino,grupo C,titulo tecnico,estandar,ninguno,85,76,71
+masculino,grupo E,titulo tecnico,estandar,ninguno,89,76,74
+femenino,grupo B,colegio,estandar,completado,58,70,68
+femenino,grupo B,colegio,estandar,ninguno,65,64,62
+masculino,grupo C,colegio,estandar,ninguno,68,60,53
+masculino,grupo A,some colegio,estandar,completado,47,49,49
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,71,83,83
+femenino,grupo B,some colegio,estandar,completado,60,70,70
+masculino,grupo D,maestria,estandar,ninguno,80,80,72
+masculino,grupo D,colegio,estandar,ninguno,54,52,52
+femenino,grupo E,empezo univerdidad,estandar,ninguno,62,73,70
+femenino,grupo C,titulo tecnico,gratis/reducido,ninguno,64,73,68
+masculino,grupo C,titulo tecnico,estandar,completado,78,77,77
+femenino,grupo B,empezo univerdidad,estandar,ninguno,70,75,78
+femenino,grupo C,maestria,gratis/reducido,completado,65,81,81
+femenino,grupo C,some colegio,gratis/reducido,completado,64,79,77
+masculino,grupo C,empezo univerdidad,estandar,completado,79,79,78
+femenino,grupo C,some colegio,gratis/reducido,ninguno,44,50,51
+femenino,grupo E,colegio,estandar,ninguno,99,93,90
+masculino,grupo D,colegio,estandar,ninguno,76,73,68
+masculino,grupo D,some colegio,gratis/reducido,ninguno,59,42,41
+femenino,grupo C,grado universitario,estandar,ninguno,63,75,81
+femenino,grupo D,colegio,estandar,ninguno,69,72,77
+femenino,grupo D,titulo tecnico,estandar,completado,88,92,95
+femenino,grupo E,empezo univerdidad,gratis/reducido,ninguno,71,76,70
+masculino,grupo C,grado universitario,estandar,ninguno,69,63,61
+masculino,grupo C,empezo univerdidad,estandar,ninguno,58,49,42
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,47,53,58
+femenino,grupo D,empezo univerdidad,estandar,ninguno,65,70,71
+masculino,grupo B,empezo univerdidad,estandar,completado,88,85,76
+masculino,grupo C,grado universitario,estandar,ninguno,83,78,73
+femenino,grupo C,some colegio,estandar,completado,85,92,93
+femenino,grupo E,colegio,estandar,completado,59,63,75
+femenino,grupo C,some colegio,gratis/reducido,ninguno,65,86,80
+masculino,grupo B,grado universitario,gratis/reducido,ninguno,73,56,57
+masculino,grupo D,colegio,estandar,ninguno,53,52,42
+masculino,grupo D,colegio,estandar,ninguno,45,48,46
+femenino,grupo D,grado universitario,gratis/reducido,ninguno,73,79,84
+femenino,grupo D,empezo univerdidad,gratis/reducido,completado,70,78,78
+femenino,grupo B,some colegio,estandar,ninguno,37,46,46
+masculino,grupo B,titulo tecnico,estandar,completado,81,82,82
+masculino,grupo E,titulo tecnico,estandar,completado,97,82,88
+femenino,grupo B,some colegio,estandar,ninguno,67,89,82
+masculino,grupo B,grado universitario,gratis/reducido,ninguno,88,75,76
+masculino,grupo E,some colegio,estandar,completado,77,76,77
+masculino,grupo C,titulo tecnico,estandar,ninguno,76,70,68
+masculino,grupo D,some colegio,estandar,ninguno,86,73,70
+masculino,grupo C,some colegio,estandar,completado,63,60,57
+femenino,grupo E,grado universitario,estandar,ninguno,65,73,75
+masculino,grupo D,colegio,gratis/reducido,completado,78,77,80
+masculino,grupo B,titulo tecnico,gratis/reducido,ninguno,67,62,60
+masculino,grupo A,some colegio,estandar,completado,46,41,43
+masculino,grupo E,titulo tecnico,estandar,completado,71,74,68
+masculino,grupo C,colegio,gratis/reducido,completado,40,46,50
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,90,87,75
+masculino,grupo A,empezo univerdidad,gratis/reducido,completado,81,78,81
+masculino,grupo D,some colegio,gratis/reducido,ninguno,56,54,52
+femenino,grupo C,titulo tecnico,estandar,completado,67,84,81
+masculino,grupo B,titulo tecnico,estandar,ninguno,80,76,64
+femenino,grupo C,titulo tecnico,estandar,completado,74,75,83
+masculino,grupo A,empezo univerdidad,estandar,ninguno,69,67,69
+masculino,grupo E,empezo univerdidad,estandar,completado,99,87,81
+masculino,grupo C,some colegio,estandar,ninguno,51,52,44
+femenino,grupo B,titulo tecnico,gratis/reducido,ninguno,53,71,67
+femenino,grupo D,colegio,gratis/reducido,ninguno,49,57,52
+femenino,grupo B,titulo tecnico,estandar,ninguno,73,76,80
+masculino,grupo B,grado universitario,estandar,ninguno,66,60,57
+masculino,grupo D,grado universitario,estandar,completado,67,61,68
+femenino,grupo C,titulo tecnico,gratis/reducido,completado,68,67,69
+femenino,grupo C,grado universitario,estandar,completado,59,64,75
+masculino,grupo C,colegio,estandar,ninguno,71,66,65
+femenino,grupo D,maestria,estandar,completado,77,82,91
+masculino,grupo C,titulo tecnico,estandar,ninguno,83,72,78
+masculino,grupo B,grado universitario,estandar,ninguno,63,71,69
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,56,65,63
+femenino,grupo C,colegio,gratis/reducido,completado,67,79,84
+femenino,grupo E,colegio,estandar,ninguno,75,86,79
+femenino,grupo C,empezo univerdidad,estandar,ninguno,71,81,80
+femenino,grupo C,some colegio,gratis/reducido,ninguno,43,53,53
+femenino,grupo C,colegio,gratis/reducido,ninguno,41,46,43
+femenino,grupo C,empezo univerdidad,estandar,ninguno,82,90,94
+masculino,grupo C,empezo univerdidad,estandar,ninguno,61,61,62
+masculino,grupo A,empezo univerdidad,gratis/reducido,ninguno,28,23,19
+masculino,grupo C,titulo tecnico,estandar,completado,82,75,77
+femenino,grupo B,some colegio,estandar,ninguno,41,55,51
+masculino,grupo C,colegio,estandar,ninguno,71,60,61
+masculino,grupo C,titulo tecnico,estandar,ninguno,47,37,35
+masculino,grupo E,titulo tecnico,estandar,completado,62,56,53
+masculino,grupo B,titulo tecnico,estandar,ninguno,90,78,81
+femenino,grupo C,grado universitario,estandar,ninguno,83,93,95
+femenino,grupo B,empezo univerdidad,gratis/reducido,ninguno,61,68,66
+masculino,grupo D,some colegio,estandar,completado,76,70,69
+masculino,grupo C,titulo tecnico,estandar,ninguno,49,51,43
+femenino,grupo B,some colegio,gratis/reducido,ninguno,24,38,27
+femenino,grupo D,some colegio,gratis/reducido,completado,35,55,60
+masculino,grupo C,colegio,gratis/reducido,ninguno,58,61,52
+femenino,grupo C,colegio,estandar,ninguno,61,73,63
+femenino,grupo B,colegio,estandar,completado,69,76,74
+masculino,grupo D,titulo tecnico,estandar,completado,67,72,67
+masculino,grupo D,empezo univerdidad,estandar,ninguno,79,73,67
+femenino,grupo C,colegio,estandar,ninguno,72,80,75
+masculino,grupo B,empezo univerdidad,estandar,ninguno,62,61,57
+femenino,grupo C,grado universitario,estandar,completado,77,94,95
+masculino,grupo D,colegio,gratis/reducido,ninguno,75,74,66
+masculino,grupo E,titulo tecnico,estandar,ninguno,87,74,76
+femenino,grupo B,grado universitario,estandar,ninguno,52,65,69
+masculino,grupo E,empezo univerdidad,estandar,ninguno,66,57,52
+femenino,grupo C,empezo univerdidad,estandar,completado,63,78,80
+femenino,grupo C,titulo tecnico,estandar,ninguno,46,58,57
+femenino,grupo C,empezo univerdidad,estandar,ninguno,59,71,70
+femenino,grupo B,grado universitario,estandar,ninguno,61,72,70
+masculino,grupo A,titulo tecnico,estandar,ninguno,63,61,61
+femenino,grupo C,empezo univerdidad,gratis/reducido,completado,42,66,69
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,59,62,61
+femenino,grupo D,empezo univerdidad,estandar,ninguno,80,90,89
+femenino,grupo B,colegio,estandar,ninguno,58,62,59
+masculino,grupo B,some colegio,estandar,completado,85,84,78
+femenino,grupo C,empezo univerdidad,estandar,ninguno,52,58,58
+femenino,grupo D,some colegio,gratis/reducido,ninguno,27,34,32
+masculino,grupo C,empezo univerdidad,estandar,ninguno,59,60,58
+masculino,grupo A,grado universitario,gratis/reducido,completado,49,58,60
+masculino,grupo C,colegio,estandar,completado,69,58,53
+masculino,grupo C,grado universitario,gratis/reducido,ninguno,61,66,61
+femenino,grupo A,some colegio,gratis/reducido,ninguno,44,64,58
+femenino,grupo D,some colegio,estandar,ninguno,73,84,85
+masculino,grupo E,empezo univerdidad,estandar,ninguno,84,77,71
+femenino,grupo C,empezo univerdidad,gratis/reducido,completado,45,73,70
+masculino,grupo D,some colegio,estandar,ninguno,74,74,72
+femenino,grupo D,empezo univerdidad,estandar,completado,82,97,96
+femenino,grupo D,grado universitario,estandar,ninguno,59,70,73
+masculino,grupo E,titulo tecnico,gratis/reducido,ninguno,46,43,41
+femenino,grupo D,some colegio,estandar,ninguno,80,90,82
+femenino,grupo D,maestria,gratis/reducido,completado,85,95,100
+femenino,grupo A,some colegio,estandar,ninguno,71,83,77
+masculino,grupo A,grado universitario,estandar,ninguno,66,64,62
+femenino,grupo B,titulo tecnico,estandar,ninguno,80,86,83
+masculino,grupo C,titulo tecnico,estandar,completado,87,100,95
+masculino,grupo C,maestria,gratis/reducido,ninguno,79,81,71
+femenino,grupo E,some colegio,gratis/reducido,ninguno,38,49,45
+femenino,grupo A,some colegio,gratis/reducido,ninguno,38,43,43
+femenino,grupo E,empezo univerdidad,estandar,ninguno,67,76,75
+femenino,grupo E,grado universitario,estandar,ninguno,64,73,70
+femenino,grupo C,titulo tecnico,gratis/reducido,ninguno,57,78,67
+femenino,grupo D,colegio,estandar,ninguno,62,64,64
+masculino,grupo D,maestria,estandar,ninguno,73,70,75
+masculino,grupo E,some colegio,gratis/reducido,completado,73,67,59
+femenino,grupo D,empezo univerdidad,estandar,ninguno,77,68,77
+masculino,grupo E,empezo univerdidad,estandar,ninguno,76,67,67
+masculino,grupo C,titulo tecnico,estandar,completado,57,54,56
+femenino,grupo C,some colegio,estandar,completado,65,74,77
+masculino,grupo A,colegio,gratis/reducido,ninguno,48,45,41
+femenino,grupo B,colegio,gratis/reducido,ninguno,50,67,63
+femenino,grupo C,titulo tecnico,estandar,ninguno,85,89,95
+masculino,grupo B,some colegio,estandar,ninguno,74,63,57
+masculino,grupo D,some colegio,estandar,ninguno,60,59,54
+femenino,grupo C,some colegio,estandar,completado,59,54,67
+masculino,grupo A,empezo univerdidad,estandar,ninguno,53,43,43
+femenino,grupo A,empezo univerdidad,gratis/reducido,ninguno,49,65,55
+femenino,grupo D,colegio,estandar,completado,88,99,100
+femenino,grupo C,colegio,estandar,ninguno,54,59,62
+femenino,grupo C,some colegio,estandar,ninguno,63,73,68
+masculino,grupo B,titulo tecnico,estandar,completado,65,65,63
+femenino,grupo B,titulo tecnico,estandar,ninguno,82,80,77
+femenino,grupo D,colegio,gratis/reducido,completado,52,57,56
+masculino,grupo D,titulo tecnico,estandar,completado,87,84,85
+femenino,grupo D,maestria,estandar,completado,70,71,74
+masculino,grupo E,empezo univerdidad,estandar,completado,84,83,78
+masculino,grupo D,titulo tecnico,estandar,ninguno,71,66,60
+masculino,grupo B,some colegio,estandar,completado,63,67,67
+femenino,grupo C,grado universitario,gratis/reducido,completado,51,72,79
+masculino,grupo E,colegio,estandar,ninguno,84,73,69
+masculino,grupo C,grado universitario,estandar,completado,71,74,68
+masculino,grupo C,titulo tecnico,estandar,ninguno,74,73,67
+masculino,grupo D,empezo univerdidad,estandar,ninguno,68,59,62
+masculino,grupo E,colegio,gratis/reducido,completado,57,56,54
+femenino,grupo C,titulo tecnico,gratis/reducido,completado,82,93,93
+femenino,grupo D,colegio,estandar,completado,57,58,64
+femenino,grupo D,maestria,gratis/reducido,completado,47,58,67
+femenino,grupo A,some colegio,estandar,completado,59,85,80
+masculino,grupo B,empezo univerdidad,gratis/reducido,ninguno,41,39,34
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,62,67,62
+masculino,grupo C,grado universitario,estandar,ninguno,86,83,86
+masculino,grupo C,some colegio,gratis/reducido,ninguno,69,71,65
+masculino,grupo A,some colegio,gratis/reducido,ninguno,65,59,53
+masculino,grupo C,some colegio,gratis/reducido,ninguno,68,63,54
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,64,66,59
+femenino,grupo C,colegio,estandar,ninguno,61,72,70
+masculino,grupo C,colegio,estandar,ninguno,61,56,55
+femenino,grupo A,some colegio,gratis/reducido,ninguno,47,59,50
+masculino,grupo C,some colegio,estandar,ninguno,73,66,66
+masculino,grupo C,empezo univerdidad,gratis/reducido,completado,50,48,53
+masculino,grupo D,titulo tecnico,estandar,ninguno,75,68,64
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,75,66,73
+masculino,grupo C,colegio,estandar,ninguno,70,56,51
+masculino,grupo D,some colegio,estandar,completado,89,88,82
+femenino,grupo C,empezo univerdidad,estandar,completado,67,81,79
+femenino,grupo D,colegio,estandar,ninguno,78,81,80
+femenino,grupo A,some colegio,gratis/reducido,ninguno,59,73,69
+femenino,grupo B,titulo tecnico,estandar,ninguno,73,83,76
+masculino,grupo A,some colegio,gratis/reducido,ninguno,79,82,73
+femenino,grupo C,some colegio,estandar,completado,67,74,77
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,69,66,60
+masculino,grupo C,colegio,estandar,completado,86,81,80
+masculino,grupo B,colegio,estandar,ninguno,47,46,42
+masculino,grupo B,titulo tecnico,estandar,ninguno,81,73,72
+femenino,grupo C,empezo univerdidad,gratis/reducido,completado,64,85,85
+femenino,grupo E,empezo univerdidad,estandar,ninguno,100,92,97
+femenino,grupo C,titulo tecnico,gratis/reducido,ninguno,65,77,74
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,65,58,49
+femenino,grupo C,titulo tecnico,gratis/reducido,ninguno,53,61,62
+masculino,grupo C,grado universitario,gratis/reducido,ninguno,37,56,47
+femenino,grupo D,grado universitario,estandar,ninguno,79,89,89
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,53,54,48
+femenino,grupo E,grado universitario,estandar,ninguno,100,100,100
+masculino,grupo B,colegio,estandar,completado,72,65,68
+masculino,grupo C,grado universitario,gratis/reducido,ninguno,53,58,55
+masculino,grupo B,empezo univerdidad,gratis/reducido,ninguno,54,54,45
+femenino,grupo E,empezo univerdidad,estandar,ninguno,71,70,76
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,77,90,91
+masculino,grupo A,grado universitario,estandar,completado,75,58,62
+femenino,grupo C,empezo univerdidad,estandar,ninguno,84,87,91
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,26,31,38
+masculino,grupo A,colegio,gratis/reducido,completado,72,67,65
+femenino,grupo A,colegio,gratis/reducido,completado,77,88,85
+masculino,grupo C,empezo univerdidad,estandar,ninguno,91,74,76
+femenino,grupo C,titulo tecnico,estandar,completado,83,85,90
+femenino,grupo C,colegio,estandar,ninguno,63,69,74
+femenino,grupo C,titulo tecnico,estandar,completado,68,86,84
+femenino,grupo D,some colegio,estandar,ninguno,59,67,61
+femenino,grupo B,titulo tecnico,estandar,completado,90,90,91
+femenino,grupo D,grado universitario,estandar,completado,71,76,83
+masculino,grupo E,grado universitario,estandar,completado,76,62,66
+masculino,grupo D,titulo tecnico,estandar,ninguno,80,68,72
+femenino,grupo D,maestria,estandar,ninguno,55,64,70
+masculino,grupo E,titulo tecnico,estandar,ninguno,76,71,67
+masculino,grupo B,colegio,estandar,completado,73,71,68
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,52,59,56
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,68,68,61
+masculino,grupo A,colegio,estandar,ninguno,59,52,46
+femenino,grupo B,titulo tecnico,estandar,ninguno,49,52,54
+masculino,grupo C,colegio,estandar,ninguno,70,74,71
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,61,47,56
+femenino,grupo C,titulo tecnico,gratis/reducido,ninguno,60,75,74
+masculino,grupo B,some colegio,estandar,completado,64,53,57
+masculino,grupo A,titulo tecnico,gratis/reducido,completado,79,82,82
+femenino,grupo A,titulo tecnico,gratis/reducido,ninguno,65,85,76
+femenino,grupo C,titulo tecnico,estandar,ninguno,64,64,70
+femenino,grupo C,empezo univerdidad,estandar,ninguno,83,83,90
+femenino,grupo C,grado universitario,estandar,ninguno,81,88,90
+femenino,grupo B,colegio,estandar,ninguno,54,64,68
+masculino,grupo D,colegio,estandar,completado,68,64,66
+femenino,grupo C,empezo univerdidad,estandar,ninguno,54,48,52
+femenino,grupo D,empezo univerdidad,gratis/reducido,completado,59,78,76
+femenino,grupo B,some colegio,estandar,ninguno,66,69,68
+masculino,grupo E,empezo univerdidad,estandar,ninguno,76,71,72
+femenino,grupo D,maestria,estandar,ninguno,74,79,82
+femenino,grupo B,titulo tecnico,estandar,completado,94,87,92
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,63,61,54
+femenino,grupo E,titulo tecnico,estandar,completado,95,89,92
+femenino,grupo D,maestria,gratis/reducido,ninguno,40,59,54
+femenino,grupo B,some colegio,estandar,ninguno,82,82,80
+masculino,grupo A,colegio,estandar,ninguno,68,70,66
+masculino,grupo B,grado universitario,gratis/reducido,ninguno,55,59,54
+masculino,grupo C,maestria,estandar,ninguno,79,78,77
+femenino,grupo C,grado universitario,estandar,ninguno,86,92,87
+masculino,grupo D,empezo univerdidad,estandar,ninguno,76,71,73
+masculino,grupo A,some colegio,estandar,ninguno,64,50,43
+masculino,grupo D,some colegio,gratis/reducido,ninguno,62,49,52
+femenino,grupo B,some colegio,estandar,completado,54,61,62
+femenino,grupo B,maestria,gratis/reducido,completado,77,97,94
+femenino,grupo C,some colegio,estandar,completado,76,87,85
+femenino,grupo D,empezo univerdidad,estandar,ninguno,74,89,84
+femenino,grupo E,empezo univerdidad,estandar,completado,66,74,73
+femenino,grupo D,some colegio,estandar,completado,66,78,78
+femenino,grupo B,colegio,gratis/reducido,completado,67,78,79
+masculino,grupo D,empezo univerdidad,estandar,ninguno,71,49,52
+femenino,grupo C,titulo tecnico,estandar,ninguno,91,86,84
+masculino,grupo D,grado universitario,estandar,ninguno,69,58,57
+masculino,grupo C,maestria,gratis/reducido,ninguno,54,59,50
+masculino,grupo C,colegio,estandar,completado,53,52,49
+masculino,grupo E,empezo univerdidad,estandar,ninguno,68,60,59
+masculino,grupo C,some colegio,gratis/reducido,completado,56,61,60
+femenino,grupo C,colegio,gratis/reducido,ninguno,36,53,43
+femenino,grupo D,grado universitario,gratis/reducido,ninguno,29,41,47
+femenino,grupo C,titulo tecnico,estandar,ninguno,62,74,70
+femenino,grupo C,titulo tecnico,estandar,completado,68,67,73
+femenino,grupo C,some colegio,estandar,ninguno,47,54,53
+masculino,grupo E,titulo tecnico,estandar,completado,62,61,58
+femenino,grupo E,titulo tecnico,estandar,completado,79,88,94
+masculino,grupo B,colegio,estandar,completado,73,69,68
+femenino,grupo C,grado universitario,gratis/reducido,completado,66,83,83
+masculino,grupo C,titulo tecnico,estandar,completado,51,60,58
+femenino,grupo D,colegio,estandar,ninguno,51,66,62
+masculino,grupo E,grado universitario,estandar,completado,85,66,71
+masculino,grupo A,titulo tecnico,estandar,completado,97,92,86
+masculino,grupo C,colegio,estandar,completado,75,69,68
+masculino,grupo D,titulo tecnico,gratis/reducido,completado,79,82,80
+femenino,grupo C,titulo tecnico,estandar,ninguno,81,77,79
+femenino,grupo D,titulo tecnico,estandar,ninguno,82,95,89
+femenino,grupo D,maestria,estandar,ninguno,64,63,66
+masculino,grupo E,some colegio,gratis/reducido,completado,78,83,80
+femenino,grupo A,some colegio,estandar,completado,92,100,97
+masculino,grupo C,colegio,estandar,completado,72,67,64
+femenino,grupo C,colegio,gratis/reducido,ninguno,62,67,64
+masculino,grupo C,maestria,estandar,ninguno,79,72,69
+masculino,grupo C,some colegio,gratis/reducido,ninguno,79,76,65
+masculino,grupo B,grado universitario,gratis/reducido,completado,87,90,88
+femenino,grupo B,titulo tecnico,estandar,ninguno,40,48,50
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,77,62,64
+masculino,grupo E,titulo tecnico,estandar,ninguno,53,45,40
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,32,39,33
+femenino,grupo C,titulo tecnico,estandar,completado,55,72,79
+masculino,grupo C,maestria,gratis/reducido,ninguno,61,67,66
+femenino,grupo B,titulo tecnico,gratis/reducido,ninguno,53,70,70
+masculino,grupo D,some colegio,estandar,ninguno,73,66,62
+femenino,grupo D,empezo univerdidad,estandar,completado,74,75,79
+femenino,grupo C,empezo univerdidad,estandar,ninguno,63,74,74
+masculino,grupo C,grado universitario,estandar,completado,96,90,92
+femenino,grupo D,empezo univerdidad,gratis/reducido,completado,63,80,80
+masculino,grupo B,grado universitario,gratis/reducido,ninguno,48,51,46
+masculino,grupo B,titulo tecnico,estandar,ninguno,48,43,45
+femenino,grupo E,grado universitario,gratis/reducido,completado,92,100,100
+femenino,grupo D,maestria,gratis/reducido,completado,61,71,78
+masculino,grupo B,colegio,gratis/reducido,ninguno,63,48,47
+masculino,grupo D,grado universitario,gratis/reducido,ninguno,68,68,67
+masculino,grupo B,empezo univerdidad,estandar,completado,71,75,70
+masculino,grupo A,grado universitario,estandar,ninguno,91,96,92
+femenino,grupo C,empezo univerdidad,estandar,ninguno,53,62,56
+femenino,grupo C,colegio,gratis/reducido,completado,50,66,64
+femenino,grupo E,colegio,estandar,ninguno,74,81,71
+masculino,grupo A,titulo tecnico,gratis/reducido,completado,40,55,53
+masculino,grupo A,empezo univerdidad,estandar,completado,61,51,52
+femenino,grupo B,colegio,estandar,ninguno,81,91,89
+femenino,grupo B,empezo univerdidad,gratis/reducido,completado,48,56,58
+femenino,grupo D,maestria,estandar,ninguno,53,61,68
+femenino,grupo D,some colegio,estandar,ninguno,81,97,96
+femenino,grupo E,some colegio,estandar,ninguno,77,79,80
+femenino,grupo D,grado universitario,gratis/reducido,ninguno,63,73,78
+femenino,grupo D,titulo tecnico,estandar,completado,73,75,80
+femenino,grupo D,empezo univerdidad,estandar,ninguno,69,77,77
+femenino,grupo C,titulo tecnico,estandar,ninguno,65,76,76
+femenino,grupo A,colegio,estandar,ninguno,55,73,73
+femenino,grupo C,grado universitario,gratis/reducido,ninguno,44,63,62
+femenino,grupo C,empezo univerdidad,estandar,ninguno,54,64,65
+femenino,grupo A,some colegio,estandar,ninguno,48,66,65
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,58,57,54
+masculino,grupo A,some colegio,estandar,ninguno,71,62,50
+masculino,grupo E,grado universitario,estandar,ninguno,68,68,64
+femenino,grupo E,colegio,estandar,ninguno,74,76,73
+femenino,grupo C,grado universitario,estandar,completado,92,100,99
+femenino,grupo C,grado universitario,estandar,completado,56,79,72
+masculino,grupo B,colegio,gratis/reducido,ninguno,30,24,15
+masculino,grupo A,some colegio,estandar,ninguno,53,54,48
+femenino,grupo D,colegio,estandar,ninguno,69,77,73
+femenino,grupo D,some colegio,estandar,ninguno,65,82,81
+femenino,grupo D,maestria,estandar,ninguno,54,60,63
+femenino,grupo C,colegio,estandar,ninguno,29,29,30
+femenino,grupo E,empezo univerdidad,estandar,ninguno,76,78,80
+masculino,grupo D,colegio,gratis/reducido,ninguno,60,57,51
+masculino,grupo D,maestria,gratis/reducido,completado,84,89,90
+masculino,grupo C,some colegio,estandar,ninguno,75,72,62
+femenino,grupo C,titulo tecnico,estandar,ninguno,85,84,82
+femenino,grupo C,maestria,gratis/reducido,ninguno,40,58,54
+femenino,grupo E,empezo univerdidad,estandar,ninguno,61,64,62
+femenino,grupo B,titulo tecnico,estandar,ninguno,58,63,65
+masculino,grupo D,empezo univerdidad,gratis/reducido,completado,69,60,63
+femenino,grupo C,empezo univerdidad,estandar,ninguno,58,59,66
+masculino,grupo C,grado universitario,estandar,completado,94,90,91
+femenino,grupo C,titulo tecnico,estandar,ninguno,65,77,74
+femenino,grupo A,titulo tecnico,estandar,ninguno,82,93,93
+femenino,grupo C,colegio,estandar,ninguno,60,68,72
+femenino,grupo E,grado universitario,estandar,ninguno,37,45,38
+masculino,grupo D,grado universitario,estandar,ninguno,88,78,83
+masculino,grupo D,maestria,estandar,ninguno,95,81,84
+masculino,grupo C,titulo tecnico,gratis/reducido,completado,65,73,68
+femenino,grupo C,colegio,gratis/reducido,ninguno,35,61,54
+masculino,grupo B,grado universitario,gratis/reducido,ninguno,62,63,56
+masculino,grupo C,colegio,gratis/reducido,completado,58,51,52
+masculino,grupo A,empezo univerdidad,estandar,completado,100,96,86
+femenino,grupo E,grado universitario,gratis/reducido,ninguno,61,58,62
+masculino,grupo D,empezo univerdidad,estandar,completado,100,97,99
+masculino,grupo B,titulo tecnico,gratis/reducido,completado,69,70,63
+masculino,grupo D,titulo tecnico,estandar,ninguno,61,48,46
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,49,57,46
+femenino,grupo C,some colegio,estandar,completado,44,51,55
+masculino,grupo D,empezo univerdidad,estandar,ninguno,67,64,70
+masculino,grupo B,colegio,estandar,ninguno,79,60,65
+femenino,grupo B,grado universitario,estandar,completado,66,74,81
+femenino,grupo C,colegio,estandar,ninguno,75,88,85
+masculino,grupo D,some colegio,estandar,ninguno,84,84,80
+masculino,grupo A,colegio,estandar,ninguno,71,74,64
+femenino,grupo B,colegio,gratis/reducido,completado,67,80,81
+femenino,grupo D,some colegio,estandar,completado,80,92,88
+masculino,grupo E,empezo univerdidad,estandar,ninguno,86,76,74
+femenino,grupo D,titulo tecnico,estandar,ninguno,76,74,73
+masculino,grupo D,colegio,estandar,ninguno,41,52,51
+femenino,grupo D,titulo tecnico,gratis/reducido,completado,74,88,90
+femenino,grupo B,some colegio,gratis/reducido,ninguno,72,81,79
+femenino,grupo E,colegio,estandar,completado,74,79,80
+masculino,grupo B,colegio,estandar,ninguno,70,65,60
+femenino,grupo B,grado universitario,estandar,completado,65,81,81
+femenino,grupo D,titulo tecnico,estandar,ninguno,59,70,65
+femenino,grupo E,colegio,gratis/reducido,ninguno,64,62,68
+femenino,grupo B,colegio,estandar,ninguno,50,53,55
+femenino,grupo D,empezo univerdidad,estandar,completado,69,79,81
+masculino,grupo C,some colegio,gratis/reducido,completado,51,56,53
+femenino,grupo A,colegio,estandar,completado,68,80,76
+femenino,grupo D,empezo univerdidad,estandar,completado,85,86,98
+femenino,grupo A,titulo tecnico,estandar,completado,65,70,74
+femenino,grupo B,some colegio,estandar,ninguno,73,79,79
+femenino,grupo B,empezo univerdidad,estandar,ninguno,62,67,67
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,77,67,64
+masculino,grupo D,some colegio,estandar,ninguno,69,66,61
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,43,60,58
+masculino,grupo D,titulo tecnico,estandar,ninguno,90,87,85
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,74,77,73
+masculino,grupo C,some colegio,estandar,ninguno,73,66,63
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,55,71,69
+femenino,grupo C,colegio,estandar,ninguno,65,69,67
+masculino,grupo D,titulo tecnico,estandar,ninguno,80,63,63
+femenino,grupo C,some colegio,gratis/reducido,completado,50,60,60
+femenino,grupo C,empezo univerdidad,gratis/reducido,completado,63,73,71
+femenino,grupo B,grado universitario,gratis/reducido,ninguno,77,85,87
+masculino,grupo C,empezo univerdidad,estandar,ninguno,73,74,61
+masculino,grupo D,titulo tecnico,estandar,completado,81,72,77
+femenino,grupo C,colegio,gratis/reducido,ninguno,66,76,68
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,52,57,50
+femenino,grupo C,empezo univerdidad,estandar,ninguno,69,78,76
+femenino,grupo C,titulo tecnico,estandar,completado,65,84,84
+femenino,grupo D,colegio,estandar,completado,69,77,78
+femenino,grupo B,empezo univerdidad,estandar,completado,50,64,66
+femenino,grupo E,empezo univerdidad,estandar,completado,73,78,76
+femenino,grupo C,some colegio,estandar,completado,70,82,76
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,81,75,78
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,63,61,60
+femenino,grupo D,colegio,estandar,ninguno,67,72,74
+masculino,grupo B,colegio,estandar,ninguno,60,68,60
+masculino,grupo B,colegio,estandar,ninguno,62,55,54
+femenino,grupo C,some colegio,gratis/reducido,completado,29,40,44
+masculino,grupo B,empezo univerdidad,estandar,completado,62,66,68
+femenino,grupo E,maestria,estandar,completado,94,99,100
+masculino,grupo E,empezo univerdidad,estandar,completado,85,75,68
+masculino,grupo D,titulo tecnico,gratis/reducido,ninguno,77,78,73
+masculino,grupo A,colegio,gratis/reducido,ninguno,53,58,44
+masculino,grupo E,empezo univerdidad,gratis/reducido,ninguno,93,90,83
+femenino,grupo C,titulo tecnico,estandar,ninguno,49,53,53
+femenino,grupo E,titulo tecnico,gratis/reducido,ninguno,73,76,78
+femenino,grupo C,grado universitario,gratis/reducido,completado,66,74,81
+femenino,grupo D,titulo tecnico,estandar,ninguno,77,77,73
+femenino,grupo C,some colegio,estandar,ninguno,49,63,56
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,79,89,86
+femenino,grupo C,titulo tecnico,estandar,completado,75,82,90
+femenino,grupo A,grado universitario,estandar,ninguno,59,72,70
+femenino,grupo D,titulo tecnico,estandar,completado,57,78,79
+masculino,grupo C,colegio,gratis/reducido,ninguno,66,66,59
+femenino,grupo E,grado universitario,estandar,completado,79,81,82
+femenino,grupo B,some colegio,estandar,ninguno,57,67,72
+masculino,grupo A,grado universitario,estandar,completado,87,84,87
+femenino,grupo D,empezo univerdidad,estandar,ninguno,63,64,67
+femenino,grupo B,some colegio,gratis/reducido,completado,59,63,64
+masculino,grupo A,grado universitario,gratis/reducido,ninguno,62,72,65
+masculino,grupo D,colegio,estandar,ninguno,46,34,36
+masculino,grupo C,empezo univerdidad,estandar,ninguno,66,59,52
+masculino,grupo D,colegio,estandar,ninguno,89,87,79
+femenino,grupo D,titulo tecnico,gratis/reducido,completado,42,61,58
+masculino,grupo C,empezo univerdidad,estandar,completado,93,84,90
+femenino,grupo E,some colegio,estandar,completado,80,85,85
+femenino,grupo D,empezo univerdidad,estandar,ninguno,98,100,99
+masculino,grupo D,maestria,estandar,ninguno,81,81,84
+femenino,grupo B,some colegio,estandar,completado,60,70,74
+femenino,grupo B,titulo tecnico,gratis/reducido,completado,76,94,87
+masculino,grupo C,titulo tecnico,estandar,completado,73,78,72
+femenino,grupo C,titulo tecnico,estandar,completado,96,96,99
+femenino,grupo C,colegio,estandar,ninguno,76,76,74
+masculino,grupo E,titulo tecnico,gratis/reducido,completado,91,73,80
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,62,72,70
+masculino,grupo D,some colegio,gratis/reducido,completado,55,59,59
+femenino,grupo B,some colegio,gratis/reducido,completado,74,90,88
+masculino,grupo C,colegio,estandar,ninguno,50,48,42
+masculino,grupo B,empezo univerdidad,estandar,ninguno,47,43,41
+masculino,grupo E,empezo univerdidad,estandar,completado,81,74,71
+femenino,grupo E,titulo tecnico,estandar,completado,65,75,77
+masculino,grupo E,some colegio,estandar,completado,68,51,57
+femenino,grupo D,colegio,gratis/reducido,ninguno,73,92,84
+masculino,grupo C,empezo univerdidad,estandar,ninguno,53,39,37
+femenino,grupo B,titulo tecnico,gratis/reducido,completado,68,77,80
+masculino,grupo A,some colegio,gratis/reducido,ninguno,55,46,43
+femenino,grupo C,empezo univerdidad,estandar,completado,87,89,94
+masculino,grupo D,some colegio,estandar,ninguno,55,47,44
+femenino,grupo E,empezo univerdidad,gratis/reducido,ninguno,53,58,57
+masculino,grupo C,maestria,estandar,ninguno,67,57,59
+masculino,grupo C,titulo tecnico,estandar,ninguno,92,79,84
+femenino,grupo B,empezo univerdidad,gratis/reducido,completado,53,66,73
+masculino,grupo D,titulo tecnico,estandar,ninguno,81,71,73
+masculino,grupo C,colegio,gratis/reducido,ninguno,61,60,55
+masculino,grupo D,grado universitario,estandar,ninguno,80,73,72
+femenino,grupo A,titulo tecnico,gratis/reducido,ninguno,37,57,56
+femenino,grupo C,colegio,estandar,ninguno,81,84,82
+femenino,grupo C,titulo tecnico,estandar,completado,59,73,72
+masculino,grupo B,empezo univerdidad,gratis/reducido,ninguno,55,55,47
+masculino,grupo D,titulo tecnico,estandar,ninguno,72,79,74
+masculino,grupo D,colegio,estandar,ninguno,69,75,71
+masculino,grupo C,empezo univerdidad,estandar,ninguno,69,64,68
+femenino,grupo C,grado universitario,gratis/reducido,ninguno,50,60,59
+masculino,grupo B,empezo univerdidad,estandar,completado,87,84,86
+masculino,grupo D,some colegio,estandar,completado,71,69,68
+masculino,grupo E,empezo univerdidad,estandar,ninguno,68,72,65
+masculino,grupo C,maestria,gratis/reducido,completado,79,77,75
+femenino,grupo C,some colegio,estandar,completado,77,90,85
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,58,55,53
+femenino,grupo E,titulo tecnico,estandar,ninguno,84,95,92
+masculino,grupo D,empezo univerdidad,estandar,ninguno,55,58,52
+masculino,grupo E,grado universitario,gratis/reducido,completado,70,68,72
+femenino,grupo D,empezo univerdidad,gratis/reducido,completado,52,59,65
+masculino,grupo B,empezo univerdidad,estandar,completado,69,77,77
+femenino,grupo C,colegio,gratis/reducido,ninguno,53,72,64
+femenino,grupo D,some colegio,estandar,ninguno,48,58,54
+masculino,grupo D,some colegio,estandar,completado,78,81,86
+femenino,grupo B,colegio,estandar,ninguno,62,62,63
+masculino,grupo D,empezo univerdidad,estandar,ninguno,60,63,59
+femenino,grupo B,colegio,estandar,ninguno,74,72,72
+femenino,grupo C,colegio,estandar,completado,58,75,77
+masculino,grupo B,colegio,estandar,completado,76,62,60
+femenino,grupo D,some colegio,estandar,ninguno,68,71,75
+masculino,grupo A,empezo univerdidad,gratis/reducido,ninguno,58,60,57
+masculino,grupo B,colegio,estandar,ninguno,52,48,49
+masculino,grupo D,grado universitario,estandar,ninguno,75,73,74
+femenino,grupo B,some colegio,gratis/reducido,completado,52,67,72
+femenino,grupo C,grado universitario,gratis/reducido,ninguno,62,78,79
+masculino,grupo B,empezo univerdidad,estandar,ninguno,66,65,60
+femenino,grupo B,some colegio,gratis/reducido,ninguno,49,58,55
+femenino,grupo B,colegio,estandar,ninguno,66,72,70
+femenino,grupo C,empezo univerdidad,gratis/reducido,ninguno,35,44,43
+femenino,grupo A,empezo univerdidad,estandar,completado,72,79,82
+masculino,grupo E,titulo tecnico,estandar,completado,94,85,82
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,46,56,57
+femenino,grupo B,maestria,estandar,ninguno,77,90,84
+femenino,grupo B,colegio,gratis/reducido,completado,76,85,82
+femenino,grupo C,titulo tecnico,estandar,completado,52,59,62
+masculino,grupo C,grado universitario,estandar,completado,91,81,79
+femenino,grupo B,some colegio,estandar,completado,32,51,44
+femenino,grupo E,some colegio,gratis/reducido,ninguno,72,79,77
+femenino,grupo B,empezo univerdidad,estandar,ninguno,19,38,32
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,68,65,61
+femenino,grupo C,maestria,gratis/reducido,ninguno,52,65,61
+femenino,grupo B,colegio,estandar,ninguno,48,62,60
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,60,66,70
+masculino,grupo D,colegio,gratis/reducido,ninguno,66,74,69
+masculino,grupo E,some colegio,estandar,completado,89,84,77
+femenino,grupo B,colegio,estandar,ninguno,42,52,51
+femenino,grupo E,titulo tecnico,gratis/reducido,completado,57,68,73
+masculino,grupo D,colegio,estandar,ninguno,70,70,70
+femenino,grupo E,titulo tecnico,gratis/reducido,ninguno,70,84,81
+masculino,grupo E,empezo univerdidad,estandar,ninguno,69,60,54
+femenino,grupo C,titulo tecnico,estandar,ninguno,52,55,57
+masculino,grupo C,some colegio,estandar,completado,67,73,68
+masculino,grupo C,some colegio,estandar,completado,76,80,73
+femenino,grupo E,titulo tecnico,estandar,ninguno,87,94,95
+femenino,grupo B,empezo univerdidad,estandar,ninguno,82,85,87
+femenino,grupo C,empezo univerdidad,estandar,ninguno,73,76,78
+masculino,grupo A,empezo univerdidad,gratis/reducido,ninguno,75,81,74
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,64,74,75
+femenino,grupo E,colegio,gratis/reducido,ninguno,41,45,40
+masculino,grupo C,colegio,estandar,ninguno,90,75,69
+masculino,grupo B,grado universitario,estandar,ninguno,59,54,51
+masculino,grupo A,some colegio,estandar,ninguno,51,31,36
+masculino,grupo A,colegio,gratis/reducido,ninguno,45,47,49
+femenino,grupo C,maestria,estandar,completado,54,64,67
+masculino,grupo E,some colegio,estandar,completado,87,84,76
+femenino,grupo C,colegio,estandar,ninguno,72,80,83
+masculino,grupo B,some colegio,estandar,completado,94,86,87
+femenino,grupo A,grado universitario,estandar,ninguno,45,59,64
+masculino,grupo D,grado universitario,gratis/reducido,completado,61,70,76
+femenino,grupo B,colegio,gratis/reducido,ninguno,60,72,68
+femenino,grupo C,some colegio,estandar,ninguno,77,91,88
+femenino,grupo A,some colegio,estandar,completado,85,90,92
+femenino,grupo D,grado universitario,gratis/reducido,ninguno,78,90,93
+masculino,grupo E,empezo univerdidad,gratis/reducido,completado,49,52,51
+femenino,grupo B,colegio,gratis/reducido,ninguno,71,87,82
+femenino,grupo C,some colegio,gratis/reducido,ninguno,48,58,52
+masculino,grupo C,colegio,estandar,ninguno,62,67,58
+femenino,grupo C,titulo tecnico,gratis/reducido,completado,56,68,70
+femenino,grupo C,some colegio,estandar,ninguno,65,69,76
+femenino,grupo D,some colegio,gratis/reducido,completado,69,86,81
+masculino,grupo B,some colegio,estandar,ninguno,68,54,53
+femenino,grupo A,empezo univerdidad,gratis/reducido,ninguno,61,60,57
+femenino,grupo C,grado universitario,gratis/reducido,completado,74,86,89
+masculino,grupo A,grado universitario,estandar,ninguno,64,60,58
+femenino,grupo B,colegio,estandar,completado,77,82,89
+masculino,grupo B,empezo univerdidad,estandar,ninguno,58,50,45
+femenino,grupo C,colegio,estandar,completado,60,64,74
+masculino,grupo E,colegio,estandar,ninguno,73,64,57
+femenino,grupo A,colegio,estandar,completado,75,82,79
+masculino,grupo B,titulo tecnico,gratis/reducido,completado,58,57,53
+femenino,grupo C,titulo tecnico,estandar,ninguno,66,77,73
+femenino,grupo D,colegio,gratis/reducido,ninguno,39,52,46
+masculino,grupo C,some colegio,estandar,ninguno,64,58,51
+femenino,grupo B,colegio,gratis/reducido,completado,23,44,36
+masculino,grupo B,empezo univerdidad,gratis/reducido,completado,74,77,76
+femenino,grupo D,some colegio,gratis/reducido,completado,40,65,64
+masculino,grupo E,maestria,estandar,ninguno,90,85,84
+masculino,grupo C,maestria,estandar,completado,91,85,85
+masculino,grupo D,colegio,estandar,ninguno,64,54,50
+femenino,grupo C,colegio,estandar,ninguno,59,72,68
+masculino,grupo D,titulo tecnico,estandar,ninguno,80,75,69
+masculino,grupo C,maestria,estandar,ninguno,71,67,67
+femenino,grupo A,colegio,estandar,ninguno,61,68,63
+femenino,grupo E,empezo univerdidad,estandar,ninguno,87,85,93
+masculino,grupo E,some colegio,estandar,ninguno,82,67,61
+masculino,grupo C,some colegio,estandar,ninguno,62,64,55
+femenino,grupo B,grado universitario,estandar,ninguno,97,97,96
+masculino,grupo B,empezo univerdidad,gratis/reducido,ninguno,75,68,65
+femenino,grupo C,grado universitario,estandar,ninguno,65,79,81
+masculino,grupo B,colegio,estandar,completado,52,49,46
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,87,73,72
+femenino,grupo C,titulo tecnico,estandar,ninguno,53,62,53
+femenino,grupo E,maestria,gratis/reducido,ninguno,81,86,87
+masculino,grupo D,grado universitario,gratis/reducido,completado,39,42,38
+femenino,grupo C,empezo univerdidad,estandar,completado,71,71,80
+masculino,grupo C,titulo tecnico,estandar,ninguno,97,93,91
+masculino,grupo D,empezo univerdidad,estandar,completado,82,82,88
+masculino,grupo C,colegio,gratis/reducido,ninguno,59,53,52
+masculino,grupo B,titulo tecnico,estandar,ninguno,61,42,41
+masculino,grupo E,titulo tecnico,gratis/reducido,completado,78,74,72
+masculino,grupo C,titulo tecnico,gratis/reducido,ninguno,49,51,51
+masculino,grupo B,colegio,estandar,ninguno,59,58,47
+femenino,grupo C,empezo univerdidad,estandar,completado,70,72,76
+masculino,grupo B,titulo tecnico,estandar,completado,82,84,78
+masculino,grupo E,titulo tecnico,gratis/reducido,ninguno,90,90,82
+femenino,grupo C,grado universitario,gratis/reducido,ninguno,43,62,61
+masculino,grupo C,empezo univerdidad,gratis/reducido,ninguno,80,64,66
+masculino,grupo D,empezo univerdidad,estandar,ninguno,81,82,84
+masculino,grupo C,some colegio,estandar,ninguno,57,61,54
+femenino,grupo D,some colegio,estandar,ninguno,59,72,80
+femenino,grupo D,titulo tecnico,estandar,ninguno,64,76,74
+masculino,grupo C,grado universitario,estandar,completado,63,64,66
+femenino,grupo E,grado universitario,estandar,completado,71,70,70
+femenino,grupo B,colegio,gratis/reducido,ninguno,64,73,71
+masculino,grupo D,grado universitario,gratis/reducido,ninguno,55,46,44
+femenino,grupo E,titulo tecnico,estandar,ninguno,51,51,54
+femenino,grupo C,titulo tecnico,estandar,completado,62,76,80
+femenino,grupo E,titulo tecnico,estandar,completado,93,100,95
+masculino,grupo C,colegio,gratis/reducido,ninguno,54,72,59
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,69,65,74
+masculino,grupo D,colegio,gratis/reducido,ninguno,44,51,48
+femenino,grupo E,empezo univerdidad,estandar,completado,86,85,91
+femenino,grupo E,titulo tecnico,estandar,ninguno,85,92,85
+femenino,grupo A,maestria,gratis/reducido,ninguno,50,67,73
+masculino,grupo D,some colegio,estandar,completado,88,74,75
+femenino,grupo E,titulo tecnico,estandar,ninguno,59,62,69
+femenino,grupo E,some colegio,gratis/reducido,ninguno,32,34,38
+masculino,grupo B,colegio,gratis/reducido,ninguno,36,29,27
+femenino,grupo B,some colegio,gratis/reducido,completado,63,78,79
+masculino,grupo D,titulo tecnico,estandar,completado,67,54,63
+femenino,grupo D,some colegio,estandar,completado,65,78,82
+masculino,grupo D,maestria,estandar,ninguno,85,84,89
+femenino,grupo C,maestria,estandar,ninguno,73,78,74
+femenino,grupo A,colegio,gratis/reducido,completado,34,48,41
+femenino,grupo D,grado universitario,gratis/reducido,completado,93,100,100
+femenino,grupo D,some colegio,gratis/reducido,ninguno,67,84,84
+masculino,grupo D,empezo univerdidad,estandar,ninguno,88,77,77
+masculino,grupo B,colegio,estandar,ninguno,57,48,51
+femenino,grupo D,empezo univerdidad,estandar,completado,79,84,91
+femenino,grupo C,grado universitario,gratis/reducido,ninguno,67,75,72
+masculino,grupo E,grado universitario,estandar,completado,70,64,70
+masculino,grupo D,grado universitario,gratis/reducido,ninguno,50,42,48
+femenino,grupo A,empezo univerdidad,estandar,ninguno,69,84,82
+femenino,grupo C,grado universitario,estandar,completado,52,61,66
+femenino,grupo C,grado universitario,gratis/reducido,completado,47,62,66
+femenino,grupo B,titulo tecnico,gratis/reducido,ninguno,46,61,55
+femenino,grupo E,empezo univerdidad,estandar,ninguno,68,70,66
+masculino,grupo E,grado universitario,estandar,completado,100,100,100
+femenino,grupo C,colegio,estandar,ninguno,44,61,52
+femenino,grupo C,titulo tecnico,estandar,completado,57,77,80
+masculino,grupo B,empezo univerdidad,estandar,completado,91,96,91
+masculino,grupo D,colegio,gratis/reducido,ninguno,69,70,67
+femenino,grupo C,colegio,gratis/reducido,ninguno,35,53,46
+masculino,grupo D,colegio,estandar,ninguno,72,66,66
+femenino,grupo B,titulo tecnico,gratis/reducido,ninguno,54,65,65
+masculino,grupo D,colegio,gratis/reducido,ninguno,74,70,69
+masculino,grupo E,some colegio,estandar,completado,74,64,60
+masculino,grupo E,titulo tecnico,gratis/reducido,ninguno,64,56,52
+femenino,grupo D,colegio,gratis/reducido,completado,65,61,71
+masculino,grupo E,titulo tecnico,gratis/reducido,completado,46,43,44
+femenino,grupo C,some colegio,gratis/reducido,ninguno,48,56,51
+masculino,grupo C,empezo univerdidad,gratis/reducido,completado,67,74,70
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,62,57,62
+masculino,grupo D,titulo tecnico,gratis/reducido,completado,61,71,73
+masculino,grupo C,grado universitario,gratis/reducido,completado,70,75,74
+masculino,grupo C,titulo tecnico,estandar,completado,98,87,90
+masculino,grupo D,empezo univerdidad,gratis/reducido,ninguno,70,63,58
+masculino,grupo A,titulo tecnico,estandar,ninguno,67,57,53
+femenino,grupo E,colegio,gratis/reducido,ninguno,57,58,57
+masculino,grupo D,empezo univerdidad,estandar,completado,85,81,85
+masculino,grupo D,some colegio,estandar,completado,77,68,69
+masculino,grupo C,maestria,gratis/reducido,completado,72,66,72
+femenino,grupo D,maestria,estandar,ninguno,78,91,96
+masculino,grupo C,colegio,estandar,ninguno,81,66,64
+masculino,grupo A,some colegio,gratis/reducido,completado,61,62,61
+femenino,grupo B,colegio,estandar,ninguno,58,68,61
+femenino,grupo C,titulo tecnico,estandar,ninguno,54,61,58
+masculino,grupo B,colegio,estandar,ninguno,82,82,80
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,49,58,60
+masculino,grupo B,some colegio,gratis/reducido,completado,49,50,52
+femenino,grupo E,colegio,gratis/reducido,completado,57,75,73
+masculino,grupo E,colegio,estandar,ninguno,94,73,71
+femenino,grupo D,empezo univerdidad,estandar,completado,75,77,83
+femenino,grupo E,some colegio,gratis/reducido,ninguno,74,74,72
+masculino,grupo C,colegio,estandar,completado,58,52,54
+femenino,grupo C,empezo univerdidad,estandar,ninguno,62,69,69
+masculino,grupo E,titulo tecnico,estandar,ninguno,72,57,62
+masculino,grupo C,empezo univerdidad,estandar,ninguno,84,87,81
+femenino,grupo D,maestria,estandar,ninguno,92,100,100
+femenino,grupo D,colegio,estandar,ninguno,45,63,59
+masculino,grupo C,colegio,estandar,ninguno,75,81,71
+femenino,grupo A,empezo univerdidad,estandar,ninguno,56,58,64
+femenino,grupo D,some colegio,gratis/reducido,ninguno,48,54,53
+femenino,grupo E,titulo tecnico,estandar,ninguno,100,100,100
+femenino,grupo C,some colegio,gratis/reducido,completado,65,76,75
+masculino,grupo D,empezo univerdidad,estandar,ninguno,72,57,58
+femenino,grupo D,empezo univerdidad,estandar,ninguno,62,70,72
+masculino,grupo A,some colegio,estandar,completado,66,68,64
+masculino,grupo C,empezo univerdidad,estandar,ninguno,63,63,60
+femenino,grupo E,titulo tecnico,estandar,ninguno,68,76,67
+femenino,grupo B,grado universitario,estandar,ninguno,75,84,80
+femenino,grupo D,grado universitario,estandar,ninguno,89,100,100
+masculino,grupo C,some colegio,estandar,completado,78,72,69
+femenino,grupo A,colegio,gratis/reducido,completado,53,50,60
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,49,65,61
+femenino,grupo A,empezo univerdidad,estandar,ninguno,54,63,67
+femenino,grupo C,empezo univerdidad,estandar,completado,64,82,77
+masculino,grupo B,empezo univerdidad,gratis/reducido,completado,60,62,60
+masculino,grupo C,titulo tecnico,estandar,ninguno,62,65,58
+masculino,grupo D,colegio,estandar,completado,55,41,48
+femenino,grupo C,titulo tecnico,estandar,ninguno,91,95,94
+femenino,grupo B,colegio,gratis/reducido,ninguno,8,24,23
+masculino,grupo D,some colegio,estandar,ninguno,81,78,78
+masculino,grupo B,some colegio,estandar,completado,79,85,86
+femenino,grupo A,empezo univerdidad,estandar,completado,78,87,91
+femenino,grupo C,some colegio,estandar,ninguno,74,75,82
+masculino,grupo A,colegio,estandar,ninguno,57,51,54
+femenino,grupo C,titulo tecnico,estandar,ninguno,40,59,51
+masculino,grupo E,some colegio,estandar,completado,81,75,76
+femenino,grupo A,some colegio,gratis/reducido,ninguno,44,45,45
+femenino,grupo D,empezo univerdidad,gratis/reducido,completado,67,86,83
+masculino,grupo E,colegio,gratis/reducido,completado,86,81,75
+femenino,grupo B,some colegio,estandar,completado,65,82,78
+femenino,grupo D,titulo tecnico,gratis/reducido,ninguno,55,76,76
+femenino,grupo D,grado universitario,gratis/reducido,ninguno,62,72,74
+masculino,grupo A,colegio,estandar,ninguno,63,63,62
+femenino,grupo E,maestria,estandar,completado,88,99,95
+masculino,grupo C,colegio,gratis/reducido,ninguno,62,55,55
+femenino,grupo C,colegio,gratis/reducido,completado,59,71,65
+femenino,grupo D,empezo univerdidad,estandar,completado,68,78,77
+femenino,grupo D,empezo univerdidad,gratis/reducido,ninguno,77,86,86
